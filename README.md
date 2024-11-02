@@ -1,6 +1,7 @@
 ## 안녕하시와요
 
-<img src="https://github.com/william00kim/william00kim/blob/output/github-contribution-grid-snake.gif"/>
+<link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.14/dist/full.min.css" rel="stylesheet" type="text/css" />
+<script src="https://cdn.tailwindcss.com"></script>
 
 InFo
 <img src="https://img.shields.io/badge/jongz1009-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
