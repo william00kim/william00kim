@@ -2,6 +2,7 @@
 
 
 InFo
+![Uploading dino.gif…]()
 
 <img src="https://img.shields.io/badge/jongz1009-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
