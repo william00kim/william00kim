@@ -1,6 +1,6 @@
 ## 안녕하시와요
 
-< herf = "instagram.com/" target="blank"> <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <!--
 **william00kim/william00kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
