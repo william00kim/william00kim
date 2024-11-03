@@ -7,15 +7,16 @@ InFo
 
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev)
 
 Tools
 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
