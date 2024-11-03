@@ -1,4 +1,4 @@
-## 안녕하시와요
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2EF724&center=true&vCenter=true&width=435&lines=There's+no+end+in+learning.;There's+no+end+in+develop.)](https://git.io/typing-svg)
 
 InFo
 
