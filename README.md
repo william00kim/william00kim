@@ -1,5 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2EF724&center=true&vCenter=true&width=435&lines=There's+no+end+in+learning.;There's+no+end+in+develop.)](https://git.io/typing-svg)
 
+<img alt="dino.gif" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
+
 InFo
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jongz1009)
